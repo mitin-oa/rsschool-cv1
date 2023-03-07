@@ -1,1 +1,1 @@
-https://OlegMitin.github.io/rsschool-cv/
+https://mitin-oa.github.io/rsschool-cv/
